@@ -1,1 +1,0 @@
-https://sgpinkus.github.io/day-ahead-energy-planner/
